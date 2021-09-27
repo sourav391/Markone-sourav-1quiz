@@ -37,7 +37,19 @@ var questions = [ {
   {
   question: "my hobby ? ",
   answer: "playing",
-}];
+},
+
+{
+  question: "my hometown ? ",
+  answer: "panvel",
+},
+
+{
+  question: "my pet name ? ",
+  answer: "bruno",
+},
+
+];
 
 // **alternative
 
